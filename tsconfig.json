@@ -17,7 +17,11 @@
       "dom"
     ]
   },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"],
   "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "preserveWhitespaces": true,
     "enableI18nLegacyMessageIdFormat": false
   }
 }

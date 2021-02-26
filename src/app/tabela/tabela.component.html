@@ -1,0 +1,22 @@
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Ano</th>
+            <th>Diretor</th>
+            <th>Gênero</th>
+            <th>Descrição</th>
+            <th>Poster</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of filmes">
+            <td class="width_300_px">{{item.nome}}</td>
+            <td class="width_100_px">{{item.ano}}</td>
+            <td class="width_200_px">{{item.diretor}}</td>
+            <td class="width_200_px">{{item.genero}}</td>
+            <td class="ellipsis" title="{{item.descricao}}">{{item.descricao}}</td>
+            <td class="width_200_px"><a href="{{item.poster}}" target="_blank">Poster</a></td>
+        </tr>
+    </tbody>
+</table>

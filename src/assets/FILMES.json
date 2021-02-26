@@ -1,0 +1,60 @@
+{
+  "filmes": [
+    {
+      "nome": "Madrugada dos Mortos",
+      "ano": 2006,
+      "genero": "Suspense",
+      "diretor": "Zack Snyder",
+      "descricao": "Depois que um mal transforma a maior parte da humanidade em zumbis sedentos de sangue, um pequeno grupo de sobreviventes encontra refúgio em um shopping center. É apenas uma questão de tempo até que os mortos-vivos cheguem, e a comida está acabando. Quando a eletricidade é cortada, o grupo precisa encontrar uma maneira de escapar das centenas de zumbis que tomam conta das ruas.",
+      "poster": "https://www.omelete.com.br/filmes/criticas/imadrugada-dos-mortosi"
+    },
+    {
+      "nome": "Contra o Tempo",
+      "ano": 2011,
+      "genero": "Ação",
+      "diretor": "Duncan Jones",
+      "descricao": "Um soldado assume a mente de um homem nos últimos oito minutos de sua vida, antes da explosão de um trem. Sua missão é voltar diversas vezes ao mesmo momento e descobrir quem plantou a bomba e como impedir a tragédia.",
+      "poster": "http://faculdade.pioxii-es.com.br/contra-o-tempo-no-cine-cultura-desta-sexta/"
+    },
+    {
+      "nome": "Velozes e Furiosos",
+      "ano": 2001,
+      "genero": "Ação",
+      "diretor": "Rob Cohen",
+      "descricao": "Velozes e Furiosos é uma saga americana, criada em 2001, que se integra na categoria de filmes de ação. Esta saga concentra-se em torno de corridas de rua ilegais, assaltos e vários outros meios",
+      "poster": "https://pt.wikipedia.org/wiki/The_Fast_and_the_Furious_(franquia)#/media/Ficheiro:Fast-Furious-Cole%C3%A7%C3%A3o.jpg"
+    },
+    {
+      "nome": "Batman vs Superman: A Origem da Justiça",
+      "ano": 2016,
+      "genero": "Aventura",
+      "diretor": "Zack Snyder",
+      "descricao": "O confronto entre Superman e Zod em Metrópolis fez a população mundial se dividir sobre a presença de extraterrestres na Terra. Enquanto muitos consideram Superman um novo deus, há aqueles que entendem ser extremamente perigosa a existência de um ser tão poderoso sem qualquer tipo de controle. Bruce Wayne é um dos que acreditam nesta segunda hipótese. Sob o manto de um Batman violento e obcecado, ele enfrenta Superman enquanto o mundo se pergunta que tipo de herói precisa.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/1/13/Batman_v_Superman_-_Poster_cinema.jpg"
+    },
+    {
+      "nome": "A Vida É Bela",
+      "ano": 1997,
+      "genero": "Comédia dramática",
+      "diretor": "Roberto Benigni",
+      "descricao": "Em 1939, na Reino da Itália, Guido Orefice é um jovem judeu que chega para trabalhar na cidade de Arezzo, na Toscana, onde seu tio Eliseo comanda um restaurante. Guido é cômico e esperto e se apaixona por uma garota chamada Dora; mais tarde, ele a vê novamente na cidade e descobre que ela é professora e é comprometida com um homem rico, mas arrogante, funcionário do governo local com quem Guido tem problemas regulares; Guido planeja muitos encontros \"acidentais\" com Dora para demonstrar seu interesse à ela. Finalmente, Dora corresponde o amor de Guido e demonstra interesse por ele também, apesar de estar noivada com seu supracitado companheiro. Guido, então, decide invadir a festa de noivado do casal a cavalo e leva Dora dali, humilhando o soberbo noivo e desagradando a mãe de Dora. Eles tornam-se casados anos mais tarde, tendo um filho chamado Giosué e passam a administrar uma pequena livraria juntos.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/a/af/La_vita_%C3%A8_bella.jpg"
+    },
+    {
+      "nome": "Trinity Ainda é Meu Nome",
+      "ano": 1971,
+      "genero": "Ação",
+      "diretor": "Enzo Barboni",
+      "descricao": "Bambino tenta ensinar seu irmão Trinity a ser um bom fora-da-lei e um bom ladrão de cavalos. No entanto, os planos dos dois irmãos são frustrados quando eles têm que salvar uma família e desbaratar uma gangue de tráfico de armas, que usa monges de uma missão como fachada.",
+      "poster": "https://br.pinterest.com/pin/683069468476756846/"
+    },
+    {
+      "nome": "Pulp Fiction: Tempo de Violência",
+      "ano": 1995,
+      "genero": "Drama",
+      "diretor": "Quentin Tarantino",
+      "descricao": "Os caminhos de vários criminosos se cruzam nestas três histórias de Quentin Tarantino. Um pistoleiro se apaixona pela mulher de seu chefe, um boxeador não se sai bem em uma luta e um casal tenta executar um plano de roubo que foge do controle.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/8/82/Pulp_Fiction_cover.jpg"
+    }
+  ]
+}
